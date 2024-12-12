@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm codingguli!
+<p align="center">
+  <h2 height="200px" align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 codingguli! <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+  <h2 align="center">A learning frontend developer</h3>
+</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=codingguli)
 
