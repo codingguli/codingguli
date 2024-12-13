@@ -1,5 +1,3 @@
-<img align="right" width="100" src="./assets/imgs/pikachu.png">
-
 <div align="center">
   <p>
     <span>𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 codingguli! </span>
