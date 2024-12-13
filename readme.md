@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://file2.bdsaas.com/attachment/public/2024/12/12/df9bf390c1014a7a9abd23edfd87ea2c.png">
+<img align="right" width="100" src="./assets/imgs/pikachu.png">
 
 <div align="center">
   <p>
